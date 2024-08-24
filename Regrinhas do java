@@ -9,3 +9,7 @@ PI = 3.1 //Não vai funcionar
 
 e ele possui duas regras, quando se tem uma variavel final, ela deve ser escrita toda maiuscula e deve ser separada (se necessario) por underline
 exemplo: final double VELOCIDADE_DA_LUZ = 299 792 458  
+
+==========================================================================================================================
+No final de números float e long, deve-se colocar respectivamente F e L no final do número
+exemplo: 3,145F e 12344L
