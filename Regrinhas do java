@@ -1,0 +1,11 @@
+quando se divide um numero float, pelo menos um dos números tem que ser float para o java considerar as casas decimais
+exemplo : 9/2.0 = 4,5
+9/2 = 4.0
+
+==========================================================================================================================
+Variaveis que não podem ser alteradas durante o código é chamada de final
+exemplo: final double PI = 3.14
+PI = 3.1 //Não vai funcionar
+
+e ele possui duas regras, quando se tem uma variavel final, ela deve ser escrita toda maiuscula e deve ser separada (se necessario) por underline
+exemplo: final double VELOCIDADE_DA_LUZ = 299 792 458  
